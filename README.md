@@ -47,7 +47,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" **alt="GraphQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>   
-    <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socketio" **alt="Socketio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" title="Socketio" **alt="Socketio" width="40" height="40"/>
     
 </div>
 
