@@ -30,6 +30,7 @@
 
 
 <div>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
     <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png" title="Ant design" alt="Ant design" width="40" height="40"/>&nbsp;
@@ -46,7 +47,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://windowstechno.com/wp-content/uploads/2019/09/Feat-7.png" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" **alt="GraphQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>   
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" title="Socketio" **alt="Socketio" width="40" height="40"/>
     
