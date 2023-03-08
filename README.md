@@ -46,7 +46,7 @@
   <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/52/2e/4f/522e4fa7-69be-6df6-3167-90093a0c3b7c/source/512x512bb.jpg" title="Outsystems" **alt="Outsystems" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://windowstechno.com/wp-content/uploads/2019/09/Feat-7.png" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjEhGK-wAahsbCm-_Hxy-rT1HsOEPsswvpP5y-cEC8OT84Iwa-IW9-56VVdJZCsYigHE&usqp=CAU" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>   
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" title="Socketio" **alt="Socketio" width="40" height="40"/>
     
