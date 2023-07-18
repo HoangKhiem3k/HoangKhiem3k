@@ -44,7 +44,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" **alt="Sequelize" width="40" height="40"/>  
     <img src="https://ih1.redbubble.net/image.438912065.6243/flat,1000x1000,075,f.u3.jpg" title="Mongoose" **alt="Mongoose" width="40" height="40"/>  
     <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" title="Prisma" **alt="Prisma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
+  <img src="https://www.designbust.com/download/168/png/laravel_icon512.png" title="Laravel" **alt="Laravel" width="40" height="40"/>
   <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/52/2e/4f/522e4fa7-69be-6df6-3167-90093a0c3b7c/source/512x512bb.jpg" title="Outsystems" **alt="Outsystems" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
