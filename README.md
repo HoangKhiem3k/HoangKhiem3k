@@ -37,7 +37,7 @@
   <img src="https://mui.com/static/logo.png" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png" title="Vue" **alt="Vue" width="40" height="40"/> 
+  <img src="https://icon2.cleanpng.com/20180701/rza/kisspng-vue-js-javascript-library-react-angularjs-js-5b395da3dbdf70.6801472015304861799006.jpg" title="Vue" **alt="Vue" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
     <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
