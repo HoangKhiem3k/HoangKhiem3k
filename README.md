@@ -28,8 +28,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" title="Vue" **alt="Vue" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" title="Vue" **alt="Vue" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/800px-Pinialogo.svg.png" title="Pinia" alt="Pinia" width="40" height="40"/>&nbsp;
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDT2I9orpd89LKvUcB2_Nh7YZ_FqwhO419IJ3R1AVHPw&s" title="VueX" alt="VueX" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
